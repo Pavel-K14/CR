@@ -1,0 +1,7 @@
+some info
+^X
+exit
+Exit
+quit()
+
+
